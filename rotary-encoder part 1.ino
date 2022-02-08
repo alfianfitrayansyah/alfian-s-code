@@ -40,3 +40,6 @@ void ISR_Encoder_A(){
     countPulses--;
   }
 }
+
+
+// haloguys
